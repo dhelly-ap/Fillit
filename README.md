@@ -7,7 +7,7 @@ Use make to compile. The executable name will be fillit.
 # Usage
 ./fillit [file]
 
-# Valid test file should be:
+# Valid test file
 • Precisely 4 lines of 4 characters, each followed by a new line (well... a 4x4 square).
 • A Tetrimino is a classic piece of Tetris composed of 4 blocks.
 • Each character must be either a block character(’#’ ) or an empty character (’.’).
