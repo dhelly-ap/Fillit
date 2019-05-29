@@ -1,5 +1,5 @@
 # Fillit
-Fillit it’s a programm that will take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible with backtracking algorithm.
+Fillit is a programm that will take a file as parameter, which contains a list of Tetriminos, and arrange them in order to create the smallest square possible with backtracking algorithm.
 
 # Compile
 Use make to compile. The executable name will be fillit.
@@ -16,7 +16,8 @@ Use make to compile. The executable name will be fillit.
  
  • Each block of a Tetrimino must touch at least one other block on any of his 4 sides (up, down, left and right).
  
- # For examle
+ # For example
+ 
  
  ....
  
